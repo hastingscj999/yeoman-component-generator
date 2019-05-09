@@ -1,0 +1,16 @@
+{
+    "name": "generator-ms-component",
+    "version": "0.1.0",
+    "description": "A mobile studio component generator",
+    "files": [
+        "generators",
+        "app",
+        "ms_component"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "yeoman-generator": "^1.0.0"
+    }
+}
